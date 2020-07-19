@@ -1,5 +1,5 @@
 ---
-title: "Firefox Extension Github Gists"
+title: "Firefox Extension: Github Gists"
 date: 2019-02-06T19:49:45+11:00
 draft: false
 toc: false
