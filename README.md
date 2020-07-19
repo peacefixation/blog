@@ -1,9 +1,9 @@
 # Personal Blog
 
-This is my personal blog site made with Hugo, a static site generator for Go. I'm using the Tranquil Peak theme.
+This is my personal blog made with Hugo, a static site generator for Go. I'm using the Tranquil Peak theme.
 
-https://gohugo.io/
-https://github.com/kakawait/hugo-tranquilpeak-theme
+https://gohugo.io/  
+https://github.com/kakawait/hugo-tranquilpeak-theme  
 
 ## Directions
 
