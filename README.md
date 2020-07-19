@@ -14,7 +14,7 @@ Install the Tranquil Peak Theme
 - cd blog
 - git init
 - git submodule add https://github.com/kakawait/hugo-tranquilpeak-theme themes/tranquilpeak
-- echo "theme = \"tranquilpeak\"" > config.toml
+- echo "theme = \\"tranquilpeak\\"" > config.toml
 
 Run the development server
 - hugo server -D
