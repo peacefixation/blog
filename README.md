@@ -5,7 +5,7 @@ This is my personal blog made with Hugo, a static site generator for Go. I'm usi
 https://gohugo.io/  
 https://github.com/kakawait/hugo-tranquilpeak-theme  
 
-## Directions
+## Initial Configuration
 
 Install Hugo
 - https://gohugo.io/getting-started/quick-start/
@@ -15,6 +15,9 @@ Install the Tranquil Peak Theme
 - git init
 - git submodule add https://github.com/kakawait/hugo-tranquilpeak-theme themes/tranquilpeak
 - echo "theme = \\"tranquilpeak\\"" > config.toml
+- edit config.toml (see themes/tranquilpeak/exampleSite/config.toml and themes/tranquilpeak/docs)
+
+## Run / Develop
 
 Run the development server
-- hugo server -D
+- hugo server
