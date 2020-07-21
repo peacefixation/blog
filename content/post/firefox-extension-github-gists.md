@@ -153,5 +153,4 @@ The options page is shown on the Firefox `about:addons` page and is another simp
 
 You can load your extension temporarily on the `about:debugging` page. Press the "Load Temporary Addon-on..." button and select your `manifest.json` file from the file browser. Once loaded you can open a JavaScript console by pressing the "Debug" button. If you make changes to your code you can reload the extension by pressing the "Reload" button.
 
-If you're interested in learning more see the [Firefox developer documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions). You can find the source code for my extension on [Github](https://github.com/peacefixation/firefox-github-gists).
-
+If you're interested in learning more see the [Firefox developer documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions). You can find the source code for my extension on [Github](https://github.com/peacefixation/firefox-github-gists). You can install the extension from the [Firefox addons page](https://addons.mozilla.org/en-US/firefox/addon/github-gists/).
