@@ -12,8 +12,7 @@ tags:
   - music
 ---
 
-In the first few weeks of pandemic isolation I setup Ableton again and had some fun mixing tunes. This is one I've been wanting to get out for a long time: big, fat progressive-house, dark on the bottom, shiny on the top, a bit silly in places, and straight from my heart.
+In the first few weeks of pandemic isolation I setup Ableton again and had some fun mixing tunes. This is one I've been wanting to get out for a long time: big, fat progressive-house, heavy groove, shiny on the top, a bit silly in places and straight from my heart.
 
 <br />
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/797462161&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
-

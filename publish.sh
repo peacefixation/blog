@@ -7,6 +7,7 @@ printf "\033[0;32mPublish updates to GitHub...\033[0m\n"
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+cp favicon.ico public/favicon.ico
 
 # Go To Public folder
 cd public
